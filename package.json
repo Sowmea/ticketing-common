@@ -1,7 +1,7 @@
 {
   "name": "@ssticketscommon/common",
   "version": "1.0.4",
-  "description": "",
+  "description": "Commons library",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
